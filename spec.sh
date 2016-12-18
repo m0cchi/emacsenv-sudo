@@ -1,5 +1,5 @@
 _name="sudo.sh"
-plugin_file="plugins/$_name.sh"
+plugin_file="plugins/$_name"
 
 if [ ! -e "$EMACSENV_PLUGINS_DIR/$_name" ]; then
   # automapping
