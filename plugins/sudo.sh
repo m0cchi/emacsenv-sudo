@@ -1,1 +1,1 @@
-sudo EMACSENV_HOME=$EMACSENV_HOME emacsenv $*
+sudo EMACSENV_HOME=$EMACSENV_HOME "$EMACSENV_HOME/bin/emacsenv" $*
